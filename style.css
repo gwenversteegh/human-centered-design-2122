@@ -1,0 +1,89 @@
+* {
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+
+@font-face {
+    font-family: murder;
+    src: url(fonts/ButcherTheBaker-R8RA.ttf);
+  }
+  @font-face {
+    font-family: standard;
+    src: url(fonts/Stroke-082d.ttf
+    );
+  }
+header {
+background-image: url(img/background.jpeg);
+position: relative;
+height: 100vh;
+overflow:hidden;
+}
+
+h1, h2 {
+color:red;
+position: absolute;
+font-family: murder;
+letter-spacing: 5px;
+margin-left: 1em;
+}
+
+h1 {
+    font-size: 150px;
+    margin-left: 0.2em;
+
+}
+
+h2 {
+    font-size: 50px;
+    top: 3.5em;
+    margin-left: 2em;
+
+}
+
+body header img:first-of-type{
+    position: absolute;
+    bottom:0;
+    left: 30vw;
+    margin: 0;
+    width: 35vw;
+    height: auto; 
+}
+
+body header img:nth-of-type(2){
+    position: absolute;
+    top: 1.5em;
+    right: 4em;
+    width: 40vw;
+    height: auto;
+}
+
+body header img:nth-of-type(3){
+    position: absolute;
+    top: 20em;
+    left: 4em;
+    width: 40vw;
+    height: auto;
+    transform: rotate(180deg);
+}
+
+body header p:first-of-type {
+    position: absolute;
+    font-size: 30px;
+    width: 25vw;
+    right: 5.75em;
+    top: 3em;
+    text-align: center;
+    font-family: standard;
+}
+
+body header p:nth-of-type(2) {
+    position: absolute;
+    font-size: 30px;
+    width: 25vw;
+    left: 5.75em;
+    top: 17em;
+    text-align: center;
+    font-family: standard;
+}
+
