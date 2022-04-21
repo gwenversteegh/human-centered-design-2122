@@ -8,11 +8,18 @@ box-sizing: border-box;
     font-family: murder;
     src: url(fonts/ButcherTheBaker-R8RA.ttf);
   }
-  @font-face {
+
+@font-face {
     font-family: standard;
     src: url(fonts/Stroke-082d.ttf
     );
-  }
+}
+
+@font-face {
+    font-family: happy;
+    src: url(fonts/SweetSmile.ttf);
+}
+
 header {
 background-image: url(img/background.jpeg);
 position: relative;
@@ -41,49 +48,120 @@ h2 {
 
 }
 
-body header img:first-of-type{
+body header > img:first-of-type{
     position: absolute;
     bottom:0;
-    left: 30vw;
+    left: 15vw;
     margin: 0;
     width: 35vw;
     height: auto; 
 }
 
-body header img:nth-of-type(2){
+body header > section:first-of-type img{
     position: absolute;
     top: 1.5em;
-    right: 4em;
+    right: 25em;
     width: 40vw;
     height: auto;
 }
 
-body header img:nth-of-type(3){
+body header > section:nth-of-type(2) img{
     position: absolute;
     top: 20em;
-    left: 4em;
-    width: 40vw;
+    left: 0;
+    width: 30vw;
     height: auto;
     transform: rotate(180deg);
 }
 
-body header p:first-of-type {
+body header > img:nth-of-type(2) {
+    position: absolute;
+    bottom: 0;
+    right: -100vw;
+    width: 40vw;
+    height: auto;
+    animation-name: hendrik;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+    animation-delay: 4s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-timing-function: linear;
+
+}
+
+@keyframes hendrik {
+    0% {
+        right: -100vw;
+        opacity: 1;
+    }
+   
+    100% {
+        right: 0;
+        opacity: 1;
+    }
+
+}
+
+body header section:first-of-type p {
     position: absolute;
     font-size: 30px;
     width: 25vw;
-    right: 5.75em;
-    top: 3em;
+    right: 17em;
+    top: 3.2em;
     text-align: center;
     font-family: standard;
 }
 
-body header p:nth-of-type(2) {
+body header section:nth-of-type(2) p {
     position: absolute;
-    font-size: 30px;
-    width: 25vw;
-    left: 5.75em;
-    top: 17em;
+    font-size: 21px;
+    width: 20vw;
+    left: 3.5em;
+    top: 22.5em;
     text-align: center;
     font-family: standard;
+    font-style: italic;
+
 }
 
+body header > section:nth-of-type(3) img{
+    position: absolute;
+    bottom: 8em;
+    right: 18em;
+    width: 30vw;
+    height: auto;
+    transform: rotate(180deg);
+}
+
+body header > section:nth-of-type(3) p {
+    position: absolute;
+    font-size: 21px;
+    width: 20vw;
+    right: 17em;
+    bottom: 9em;
+    text-align: center;
+    font-family: standard;
+    /* text-transform: uppercase; */
+    font-family: happy;
+    
+}
+
+body header > section:nth-of-type(3) {
+    opacity: 0;
+    animation-name: bubble;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+    animation-delay: 6s;
+    animation-iteration-count: 1;
+}
+
+@keyframes bubble {
+    0% {
+        opacity: 0;
+    }
+   
+    100% {
+        opacity: 1;
+    }
+}
