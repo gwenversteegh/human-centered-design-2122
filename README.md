@@ -1,7 +1,7 @@
 # Podcast
 
 ## User story
-Marie van Driessche
+### Marie van Driessche
 
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
@@ -45,6 +45,9 @@ Het is dus heel belangrijk om niet alleen een transcript te maken en verder niks
 - Crishine Sun Kim is een dove kunstenaar die bepaalde geluiden uitgebreid heeft vertaald naar tekst. Dus in plaats van alleen te zeggen "een viool begint" zegt ze "een viool begint te spelen, alsof je alleen in een bar zit en je net de liefde van je leven kwijt bent geraakt. Het regent buiten en je bent erg verdrietig".
 
 #### Hoe nu verder?
+Ik heb gekozen om te werken met een podcast. Ik ga nu eerst onderzoek doen naar verschillende fonts en sizes en hoe dit gebruikt wordt om gevoel en nuance over te brengen. Ook ga ik nog meer onderzoek doen naar lichaamstaal en hoe ik dit kan vertalen in illustraties. 
+
+
 ### Test 2
 ### Test 3
 
