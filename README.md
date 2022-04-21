@@ -14,7 +14,6 @@ Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film o
 ## Ideation
 ### Podcast strip
 
-
 ## prototypes
 ### lo-fi
 ### Me-fi
@@ -59,10 +58,14 @@ Laat de gebruiker zien dat de persoon die praat blij of boos is. Zeg niet, hij i
 
 <img width="582" alt="Screenshot 2022-04-20 at 11 17 11" src="https://user-images.githubusercontent.com/70900763/164195167-f03f141d-dbd4-40bc-8576-36e51323d117.png">
 
-A comicbook is a good example of how you can show nuance. When people have a conversation in in a comicbook you can see the faces change when someone is mad or happy. They also use a lot of different fonts, capital letters and colours ofcourse. 
-
 Een stripboek is een goed voorbeeld van hoe je nuance kan laten zien. Wanneer mensen een gesprek hebben in een strip, zie je de gezichten veranderen wanneer ze boos of blij zijn. Ook wordt er gebruik gemaakt van veel verschillende fonts, font-size en kleuren om emoties beter over te laten komen.
+
 <img width="523" alt="Screenshot 2022-04-20 at 11 20 27" src="https://user-images.githubusercontent.com/70900763/164195783-ae313e2e-d231-44b9-9a9e-19c6c83eecf8.png">
 
 ### feeling in fonts
 https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943
+<img width="523" alt="Screenshot 2022-04-21 at 11 06 11" src="https://user-images.githubusercontent.com/70900763/164420668-77cdeaf6-4a73-46db-9a13-5a4577b87d2a.png">
+
+#### fonttest
+<img width="1365" alt="Screenshot 2022-04-21 at 11 07 36" src="https://user-images.githubusercontent.com/70900763/164420946-aec323ad-e391-40d8-95d8-ef7f9fa4ff80.png">
+
