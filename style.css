@@ -4,6 +4,10 @@ padding: 0;
 box-sizing: border-box;
 }
 
+body {
+    width: 100vw;
+}
+
 @font-face {
     font-family: murder;
     src: url(fonts/ButcherTheBaker-R8RA.ttf);
@@ -20,11 +24,51 @@ box-sizing: border-box;
     src: url(fonts/SweetSmile.ttf);
 }
 
+@font-face {
+    font-family: bloody;
+    src: url(fonts/BlackShadow.ttf);
+}
+
+main ol li{
+    height: 50%;
+}
+
 header {
-background-image: url(img/background.jpeg);
 position: relative;
 height: 100vh;
+width: 100vw;
 overflow:hidden;
+}
+
+header > p:first-of-type {
+    color: white;
+    font-size: 30px;
+    font-family:murder;
+    float:right;
+    margin-top: 1em;
+    margin-right: 1em;
+    letter-spacing: 5px;
+
+}
+
+main{
+    overflow: hidden;
+}
+
+header > p:nth-of-type(2){
+color: white;
+    font-size: 30px;
+    font-family:murder;
+    float:right;
+    margin-top: 2.3em;
+    margin-right: -1.5em;
+}
+
+body {
+    background-image: url(img/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
 }
 
 h1, h2 {
@@ -48,62 +92,36 @@ h2 {
 
 }
 
-body header > img:first-of-type{
+body header >   img:first-of-type{
     position: absolute;
     bottom:0;
-    left: 15vw;
+    right: 0;
     margin: 0;
     width: 35vw;
     height: auto; 
+    transform: rotate(-20deg);
 }
 
-body header > section:first-of-type img{
+body header >  section:first-of-type img{
     position: absolute;
     top: 1.5em;
     right: 25em;
     width: 40vw;
     height: auto;
+
 }
 
-body header > section:nth-of-type(2) img{
+body header >  section:nth-of-type(2) img{
     position: absolute;
-    top: 20em;
-    left: 0;
+    bottom: 0;
+    right: 25em;
     width: 30vw;
     height: auto;
     transform: rotate(180deg);
 }
 
-body header > img:nth-of-type(2) {
-    position: absolute;
-    bottom: 0;
-    right: -100vw;
-    width: 40vw;
-    height: auto;
-    animation-name: hendrik;
-    animation-duration: 1.5s;
-    animation-fill-mode: forwards;
-    animation-delay: 4s;
-    animation-iteration-count: 1;
-    animation-direction: normal;
-    animation-timing-function: linear;
 
-}
-
-@keyframes hendrik {
-    0% {
-        right: -100vw;
-        opacity: 1;
-    }
-   
-    100% {
-        right: 0;
-        opacity: 1;
-    }
-
-}
-
-body header section:first-of-type p {
+body header >  section:first-of-type p {
     position: absolute;
     font-size: 30px;
     width: 25vw;
@@ -113,19 +131,19 @@ body header section:first-of-type p {
     font-family: standard;
 }
 
-body header section:nth-of-type(2) p {
+body header >  section:nth-of-type(2) p {
     position: absolute;
     font-size: 21px;
     width: 20vw;
-    left: 3.5em;
-    top: 22.5em;
+    bottom: 3em;
+    right: 22.7em;
     text-align: center;
     font-family: standard;
     font-style: italic;
 
 }
 
-body header > section:nth-of-type(3) img{
+body header  > section:nth-of-type(3) img{
     position: absolute;
     bottom: 8em;
     right: 18em;
@@ -134,7 +152,7 @@ body header > section:nth-of-type(3) img{
     transform: rotate(180deg);
 }
 
-body header > section:nth-of-type(3) p {
+body header >   section:nth-of-type(3) p {
     position: absolute;
     font-size: 21px;
     width: 20vw;
@@ -142,26 +160,100 @@ body header > section:nth-of-type(3) p {
     bottom: 9em;
     text-align: center;
     font-family: standard;
-    /* text-transform: uppercase; */
-    font-family: happy;
+    font-family: happy;  
+}
+
+
+main li:first-of-type > img:first-of-type {
+    width: 20vw;
+    height: auto;
+    margin-top: 10em;
+}
+
+main li:first-of-type > img:nth-of-type(2) {
+    position:absolute;
+    left: 10em;
+    width: 30em;
+    height: auto;
+
+}
+
+
+main li:first-of-type > img:nth-of-type(3) {
+    position:absolute;
+    right: 31em;
+    top: 5em;
+    width: 25em;
+    height: auto;
+
+}
+
+main > ol li:nth-of-type(2) p {
+    font-family: bloody;
+    position:absolute;
+    left: 4em;
+    top: 32em;
+    font-size: 22px;
+    width: 20%;
+    text-align: center;
+}
+
+main > ol li:nth-of-type(2) img {
+left: 0;
+height: auto;
+
+}
+
+li:nth-of-type(odd) {
+    transform:translateX(-100em);
+}
+
+li:nth-of-type(even) {
+    width: 50vw;
+    transform:translateX(200em);
+}
+ 
+.articlemoveleft:nth-of-type(odd) {
+    animation: articlemoveleft 1s ease-out forwards;
+}
+
+.articlemoveright:nth-of-type(even) {
+    animation: articlemoveright 1s ease-out forwards;
+}
+
+@keyframes articlemoveleft {
+    0% {
+        transform:translateX(-100em);
+    }
+
+    100% {
+        transform:translateX(0);
+    }
+}
+
+@keyframes articlemoveright {
+    0% {
+        transform:translateX(200em);
+    }
+
+    100% {
+        transform:translateX(70em);
+    }
+}
+
+
+main ol > li:nth-of-type(2) img:first-of-type{
+    width: 20em;
+    height: auto;
+    margin-bottom: 5em;
+    margin-top: -5em;
     
 }
 
-body header > section:nth-of-type(3) {
-    opacity: 0;
-    animation-name: bubble;
-    animation-duration: 1.5s;
-    animation-fill-mode: forwards;
-    animation-delay: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes bubble {
-    0% {
-        opacity: 0;
-    }
-   
-    100% {
-        opacity: 1;
-    }
+main ol > li:nth-of-type(2) img:nth-of-type(2){
+    width: 20em;
+    position: absolute;
+    left: -15em;
+    bottom: -3em;
+    
 }
