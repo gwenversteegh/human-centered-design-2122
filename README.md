@@ -13,6 +13,18 @@ Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film o
 
 ## Ideation
 ### Podcast strip
+- Gebruik maken van gezichtsuitdrukkingen
+- Verschillende fonts
+- Tijdens het scrollen komt het gesprek binnenvliegen
+
+### Boek
+- De transcript wordt weergeven als een soort boek
+- Inspiratie van Geronimo Stilton boeken ( hebben veel verschillende lettertype etv )
+- Emoties etc uitgebreid beschreven
+
+### App met alle podcasts
+- Met transcript
+- Keuze om snelheid aan te passen
 
 ## prototypes
 ### lo-fi
