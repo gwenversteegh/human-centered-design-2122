@@ -83,6 +83,11 @@ Bij de 3e test heb ik gebruik gemaakt van een echte podcast. Het mannelijke pers
 - Misschien nog iets doen met hoofdletters en hele kleine letters?
 - De achtergrond geeft ook echt heel veel sfeer en samen met de titel zorgt dit ervoor dat ze gelijk doorheeft watvoor podcast het is en het gevoel erbij.
 
+## Exclusive design principles
+### Study Situation
+### Ignore Conventions
+### Prioritise Identity
+### Add Nonsense
 
 ## Research
 ### show, don't tell
@@ -101,6 +106,10 @@ https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943
 
 #### fonttest
 <img width="1365" alt="Screenshot 2022-04-21 at 11 07 36" src="https://user-images.githubusercontent.com/70900763/164420946-aec323ad-e391-40d8-95d8-ef7f9fa4ff80.png">
+
+#### Gezichtsuitdrukkingen
+![Untitled_Artwork 38](https://user-images.githubusercontent.com/70900763/168104813-2cedcd3b-aabe-4972-81c2-882ef14694d4.png)
+
 
 
 
