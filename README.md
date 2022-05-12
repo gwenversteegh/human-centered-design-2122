@@ -69,6 +69,7 @@ Bij de 3e test heb ik gebruik gemaakt van een echte podcast. Het mannelijke pers
 - Het doet haar denken aan visual storytelling en dus iets minder aan een podcast, maar het is juist leuk dat het wat anders is.
 - De tekst in combinatie met de fonts komen goed over en door de extra gezichtsuitdrukking is het duidelijk hoe het wordt gezegd.
 - Misschien nog iets doen met hoofdletters en hele kleine letters?
+- De achtergrond geeft ook echt heel veel sfeer en samen met de titel zorgt dit ervoor dat ze gelijk doorheeft watvoor podcast het is en het gevoel erbij.
 
 
 ## Research
