@@ -29,8 +29,16 @@ body {
     src: url(fonts/BlackShadow.ttf);
 }
 
-main ol li{
-    height: 50%;
+
+main ol li {
+    width: 50%;
+    height: 20vh;
+}
+
+main ol  {
+    width: 100%;
+    height: 100em;
+    list-style-type: none;
 }
 
 header {
@@ -53,6 +61,7 @@ header > p:first-of-type {
 
 main{
     overflow: hidden;
+    
 }
 
 header > p:nth-of-type(2){
@@ -179,24 +188,8 @@ main li:first-of-type > img:nth-of-type(2) {
 }
 
 
-main li:first-of-type > img:nth-of-type(3) {
-    position:absolute;
-    right: 31em;
-    top: 5em;
-    width: 25em;
-    height: auto;
 
-}
 
-main > ol li:nth-of-type(2) p {
-    font-family: bloody;
-    position:absolute;
-    left: 4em;
-    top: 32em;
-    font-size: 22px;
-    width: 20%;
-    text-align: center;
-}
 
 main > ol li:nth-of-type(2) img {
 left: 0;
@@ -227,7 +220,7 @@ li:nth-of-type(even) {
     }
 
     100% {
-        transform:translateX(0);
+        transform:translateX(-2em);
     }
 }
 
@@ -237,23 +230,72 @@ li:nth-of-type(even) {
     }
 
     100% {
-        transform:translateX(70em);
+        transform:translateX(65em);
     }
 }
 
 
 main ol > li:nth-of-type(2) img:first-of-type{
-    width: 20em;
+    width: 25em;
     height: auto;
     margin-bottom: 5em;
     margin-top: -5em;
+    margin-right: 6em;
     
 }
 
 main ol > li:nth-of-type(2) img:nth-of-type(2){
-    width: 20em;
+    width: 25em;
     position: absolute;
     left: -15em;
-    bottom: -3em;
+    bottom: -20em;
     
+}
+
+main ol > li:nth-of-type(3) img:first-of-type{
+    width: 20em;
+    height: auto; 
+    left: 0;
+    bottom: -15em;
+    transform: rotate(20deg);
+
+
+}
+
+main ol > li:nth-of-type(3) img:first-of-type{
+    width: 20em;
+    height: auto;
+    position: absolute;
+    left: 1em;
+    top: 18em;
+} 
+   
+main ol > li:nth-of-type(3) img:nth-of-type(2){
+    position:absolute;
+    width: 30em;
+    height: auto;
+    left: 15em;
+    top: 5em;
+} 
+   
+main ol > li:nth-of-type(4) img:first-of-type{
+    width: 25em;
+    height: auto; 
+    margin-top: 20em;
+}
+
+main ol > li:nth-of-type(4) img:nth-of-type(2){
+    position:absolute;
+    width: 30em;
+    height: auto;
+    right: 35em;
+    top: 5em;
+}
+
+main ol > li:nth-of-type(5) img:first-of-type{
+    width: 20em;
+    height: auto; 
+    margin-top: 20em;
+    margin-left: -2em;
+    transform: rotate(40deg);
 }
