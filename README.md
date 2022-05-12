@@ -48,7 +48,27 @@ Ik heb gekozen om te werken met een podcast. Ik ga nu eerst onderzoek doen naar 
 
 
 ### Test 2
+<img width="1365" alt="Screenshot 2022-05-11 at 10 01 02" src="https://user-images.githubusercontent.com/70900763/167799363-622cc957-8b4e-45ce-b92a-0308507c00c3.png">
+
+#### Feedback over design etc.
+De combinatie van een gezichtsuitdrukken, verschillende fonts en kleuren zorgen ervoor dat Marie meer nuance meekrijgt. Bij deze test kwam dit ook naar voor. Ik ben onderzoek gaan doen naar verschillende fonts en wat deze voor gevoel overdragen. 
+
+#### Extra tips
+Bij een podcast mocht het best over te top, omdat alleen een transcriptie wel heel plat is en daarmee krijgt ze geen gevoel mee. Ook gaf ze aan dat ze het fijn vindt om zelf de snelheid aan te passen en ze vaak sneller leest dan een gemiddeld persoon.
+
+Verder gaf ze als tip om een echte podcast te gebruiken. Dit zorgt ervoor dat het realistisch wordt. 
+
 ### Test 3
+<img width="1440" alt="Screenshot 2022-05-12 at 12 12 01" src="https://user-images.githubusercontent.com/70900763/168047748-7451a01f-b73c-40a5-bad1-c17c82c2af54.png">
+<img width="1440" alt="Screenshot 2022-05-12 at 12 12 36" src="https://user-images.githubusercontent.com/70900763/168047872-0a21c36c-8ec2-4d9a-861c-66e1d1265bf0.png">
+
+Bij de 3e test heb ik gebruik gemaakt van een echte podcast. Het mannelijke personage is nog niet zelf getekend en hierdoor klopt de gezichtsuitdrukking dus ook nog niet helemaal. 
+
+#### Feedback
+- Het ziet er goed uit! Heel anders dan alle andere.
+- Het doet haar denken aan visual storytelling en dus iets minder aan een podcast, maar het is juist leuk dat het wat anders is.
+- De tekst in combinatie met de fonts komen goed over en door de extra gezichtsuitdrukking is het duidelijk hoe het wordt gezegd.
+- Misschien nog iets doen met hoofdletters en hele kleine letters?
 
 
 ## Research
@@ -69,5 +89,7 @@ https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943
 #### fonttest
 <img width="1365" alt="Screenshot 2022-04-21 at 11 07 36" src="https://user-images.githubusercontent.com/70900763/164420946-aec323ad-e391-40d8-95d8-ef7f9fa4ff80.png">
 
-<img width="1365" alt="Screenshot 2022-05-11 at 10 01 02" src="https://user-images.githubusercontent.com/70900763/167799363-622cc957-8b4e-45ce-b92a-0308507c00c3.png">
+
+
+
 
