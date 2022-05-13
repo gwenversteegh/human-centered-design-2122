@@ -26,10 +26,6 @@ Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film o
 - Met transcript
 - Keuze om snelheid aan te passen
 
-## prototypes
-### lo-fi
-### Me-fi
-### Hi-fi
 
 ## Testing
 ### Test 1
