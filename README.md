@@ -26,10 +26,6 @@ Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film o
 - Met transcript
 - Keuze om snelheid aan te passen
 
-## prototypes
-### lo-fi
-### Me-fi
-### Hi-fi
 
 ## Testing
 ### Test 1
@@ -83,6 +79,18 @@ Bij de 3e test heb ik gebruik gemaakt van een echte podcast. Het mannelijke pers
 - Misschien nog iets doen met hoofdletters en hele kleine letters?
 - De achtergrond geeft ook echt heel veel sfeer en samen met de titel zorgt dit ervoor dat ze gelijk doorheeft watvoor podcast het is en het gevoel erbij.
 
+## Exclusive design principles
+### Study Situation
+Bij de eerste test hebben we Marie gelijk goed leren kennen, ze heeft veel verteld en veel tips gegeven. Omdat Marie doof is, is ze volledig afhankelijk van haar zicht. Omdat ze dit is, heb ik ervoor gekozen om heel visueel aan de slag te gaan. Haar laptop gebruikt ze net zoals wij dat doen dus daar hoefte ik geen rekening mee te houden.
+
+### Ignore Conventions
+Normaal gesproken worden fonts nauwkeurig uitgekozen en zit er veel consistentie in, maar omdat Marie meer nuance nodig heeft heb ik voor veel verschillende fonts gekozen. Normaal gesproken kan dit overweldigend zijn en misschien een beetje chaotisch overkomen, maar voor Marie is dit fijn om meer gevoel te krijgen bij de podcast.
+
+### Prioritise Identity
+Ik heb niet super veel rekening gehouden met de identiteit van Marie, omdat ik het gevoel van de podcast graag goed over wilde laten komen. Wanneer ik Marie haar identiteit erin zou gebruiken zou het gevoel van de spannende podcast minder worden. Wel vond Marie een spannende podcast leuk, dus dat past wel bij haar.
+
+### Add Nonsense
+Ik heb heel veel dingen toegevoegd. Het lijkt een beetje op visual storytelling. Door veel gezichtsuitdrukkingen en fonts te gebruiken wordt het gevoel goed overgebracht. 
 
 ## Research
 ### show, don't tell
@@ -101,6 +109,10 @@ https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943
 
 #### fonttest
 <img width="1365" alt="Screenshot 2022-04-21 at 11 07 36" src="https://user-images.githubusercontent.com/70900763/164420946-aec323ad-e391-40d8-95d8-ef7f9fa4ff80.png">
+
+#### Gezichtsuitdrukkingen
+![Untitled_Artwork 38](https://user-images.githubusercontent.com/70900763/168104813-2cedcd3b-aabe-4972-81c2-882ef14694d4.png)
+
 
 
 
