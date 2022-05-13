@@ -5,40 +5,38 @@ box-sizing: border-box;
 }
 
 body {
-    width: 100vw;
+width: 100vw;
 }
 
 @font-face {
-    font-family: murder;
-    src: url(fonts/ButcherTheBaker-R8RA.ttf);
-  }
-
-@font-face {
-    font-family: standard;
-    src: url(fonts/Stroke-082d.ttf
-    );
+font-family: murder;
+src: url(fonts/ButcherTheBaker-R8RA.ttf);
 }
 
 @font-face {
-    font-family: happy;
-    src: url(fonts/SweetSmile.ttf);
+font-family: standard;
+src: url(fonts/Stroke-082d.ttf);
 }
 
 @font-face {
-    font-family: bloody;
-    src: url(fonts/BlackShadow.ttf);
+font-family: happy;
+src: url(fonts/SweetSmile.ttf);
 }
 
+@font-face {
+font-family: bloody;
+src: url(fonts/BlackShadow.ttf);
+}
 
 main ol li {
-    width: 50%;
-    height: 20vh;
+width: 50%;
+height: 20vh;
 }
 
 main ol  {
-    width: 100%;
-    height: 100em;
-    list-style-type: none;
+width: 100%;
+height: 100em;
+list-style-type: none;
 }
 
 header {
@@ -49,35 +47,33 @@ overflow:hidden;
 }
 
 header > p:first-of-type {
-    color: white;
-    font-size: 30px;
-    font-family:murder;
-    float:right;
-    margin-top: 1em;
-    margin-right: 1em;
-    letter-spacing: 5px;
-
+color: white;
+font-size: 30px;
+font-family:murder;
+float:right;
+margin-top: 1em;
+margin-right: 1em;
+letter-spacing: 5px;
 }
 
 main{
-    overflow: hidden;
-    
+overflow: hidden;   
 }
 
 header > p:nth-of-type(2){
 color: white;
-    font-size: 30px;
-    font-family:murder;
-    float:right;
-    margin-top: 2.3em;
-    margin-right: -1.5em;
+font-size: 30px;
+font-family:murder;
+float:right;
+margin-top: 2.3em;
+margin-right: -1.5em;
 }
 
 body {
-    background-image: url(img/background.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: auto;
+background-image: url(img/background.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+height: auto;
 }
 
 h1, h2 {
@@ -89,129 +85,118 @@ margin-left: 1em;
 }
 
 h1 {
-    font-size: 150px;
-    margin-left: 0.2em;
-
+font-size: 150px;
+margin-left: 0.2em;
 }
 
 h2 {
-    font-size: 50px;
-    top: 3.5em;
-    margin-left: 2em;
-
+font-size: 50px;
+top: 3.5em;
+margin-left: 2em;
 }
 
 body header >   img:first-of-type{
-    position: absolute;
-    bottom:0;
-    right: 0;
-    margin: 0;
-    width: 35vw;
-    height: auto; 
-    transform: rotate(-20deg);
+position: absolute;
+bottom:0;
+right: 0;
+margin: 0;
+width: 35vw;
+height: auto; 
+transform: rotate(-20deg);
 }
 
 body header >  section:first-of-type img{
-    position: absolute;
-    top: 1.5em;
-    right: 25em;
-    width: 40vw;
-    height: auto;
-
+position: absolute;
+top: 1.5em;
+right: 25em;
+width: 40vw;
+height: auto;
 }
 
 body header >  section:nth-of-type(2) img{
-    position: absolute;
-    bottom: 0;
-    right: 25em;
-    width: 30vw;
-    height: auto;
-    transform: rotate(180deg);
+position: absolute;
+bottom: 0;
+right: 25em;
+width: 30vw;
+height: auto;
+transform: rotate(180deg);
 }
 
 
 body header >  section:first-of-type p {
-    position: absolute;
-    font-size: 30px;
-    width: 25vw;
-    right: 17em;
-    top: 3.2em;
-    text-align: center;
-    font-family: standard;
+position: absolute;
+font-size: 30px;
+width: 25vw;
+right: 17em;
+top: 3.2em;
+text-align: center;
+font-family: standard;
 }
 
 body header >  section:nth-of-type(2) p {
-    position: absolute;
-    font-size: 21px;
-    width: 20vw;
-    bottom: 3em;
-    right: 22.7em;
-    text-align: center;
-    font-family: standard;
-    font-style: italic;
-
+position: absolute;
+font-size: 21px;
+width: 20vw;
+bottom: 3em;
+right: 22.7em;
+text-align: center;
+font-family: standard;
+font-style: italic;
 }
 
 body header  > section:nth-of-type(3) img{
-    position: absolute;
-    bottom: 8em;
-    right: 18em;
-    width: 30vw;
-    height: auto;
-    transform: rotate(180deg);
+position: absolute;
+bottom: 8em;
+right: 18em;
+width: 30vw;
+height: auto;
+transform: rotate(180deg);
 }
 
 body header >   section:nth-of-type(3) p {
-    position: absolute;
-    font-size: 21px;
-    width: 20vw;
-    right: 17em;
-    bottom: 9em;
-    text-align: center;
-    font-family: standard;
-    font-family: happy;  
+position: absolute;
+font-size: 21px;
+width: 20vw;
+right: 17em;
+bottom: 9em;
+text-align: center;
+font-family: standard;
+font-family: happy;  
 }
 
-
 main li:first-of-type > img:first-of-type {
-    width: 20vw;
-    height: auto;
-    margin-top: 10em;
+width: 20vw;
+height: auto;
+margin-top: 10em;
 }
 
 main li:first-of-type > img:nth-of-type(2) {
-    position:absolute;
-    left: 10em;
-    width: 30em;
-    height: auto;
-
+position:absolute;
+left: 10em;
+width: 30em;
+height: auto;
 }
-
-
-
-
 
 main > ol li:nth-of-type(2) img {
 left: 0;
 height: auto;
-
 }
 
 li:nth-of-type(odd) {
-    transform:translateX(-100em);
+transform:translateX(-100em);
 }
 
 li:nth-of-type(even) {
-    width: 50vw;
-    transform:translateX(200em);
+width: 50vw;
+transform:translateX(200em);
 }
  
 .articlemoveleft:nth-of-type(odd) {
-    animation: articlemoveleft 1s ease-out forwards;
+animation: articlemoveleft 1s ease-out forwards;
 }
 
 .articlemoveright:nth-of-type(even) {
-    animation: articlemoveright 1s ease-out forwards;
+animation: articlemoveright 1s ease-out forwards;
 }
 
 @keyframes articlemoveleft {
@@ -236,66 +221,62 @@ li:nth-of-type(even) {
 
 
 main ol > li:nth-of-type(2) img:first-of-type{
-    width: 25em;
-    height: auto;
-    margin-bottom: 5em;
-    margin-top: -5em;
-    margin-right: 6em;
-    
+width: 25em;
+height: auto;
+margin-bottom: 5em;
+margin-top: -5em;
+margin-right: 6em;  
 }
 
 main ol > li:nth-of-type(2) img:nth-of-type(2){
-    width: 25em;
-    position: absolute;
-    left: -15em;
-    bottom: -20em;
-    
+width: 25em;
+position: absolute;
+left: -15em;
+bottom: -20em;  
 }
 
 main ol > li:nth-of-type(3) img:first-of-type{
-    width: 20em;
-    height: auto; 
-    left: 0;
-    bottom: -15em;
-    transform: rotate(20deg);
-
-
+width: 20em;
+height: auto; 
+left: 0;
+bottom: -15em;
+transform: rotate(20deg);
 }
 
 main ol > li:nth-of-type(3) img:first-of-type{
-    width: 20em;
-    height: auto;
-    position: absolute;
-    left: 1em;
-    top: 18em;
+width: 20em;
+height: auto;
+position: absolute;
+left: 1em;
+top: 18em;
 } 
    
 main ol > li:nth-of-type(3) img:nth-of-type(2){
-    position:absolute;
-    width: 30em;
-    height: auto;
-    left: 15em;
-    top: 5em;
+position:absolute;
+width: 30em;
+height: auto;
+left: 15em;
+top: 5em;
 } 
    
 main ol > li:nth-of-type(4) img:first-of-type{
-    width: 25em;
-    height: auto; 
-    margin-top: 20em;
+width: 25em;
+height: auto; 
+margin-top: 20em;
 }
 
 main ol > li:nth-of-type(4) img:nth-of-type(2){
-    position:absolute;
-    width: 30em;
-    height: auto;
-    right: 35em;
-    top: 5em;
+position:absolute;
+width: 30em;
+height: auto;
+right: 35em;
+top: 5em;
 }
 
 main ol > li:nth-of-type(5) img:first-of-type{
-    width: 20em;
-    height: auto; 
-    margin-top: 20em;
-    margin-left: -2em;
-    transform: rotate(40deg);
+width: 20em;
+height: auto; 
+margin-top: 20em;
+margin-left: -2em;
+transform: rotate(40deg);
 }
